@@ -1,12 +1,14 @@
 .square {
-  width: 3rem;
-  height: 3rem;
+  width: 10vh;
+  height: 10vh;
   background-color: black;
   color: white;
   text-align: center;
+  font-size: 4vh; 
 }
 
 body {
+  height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center;

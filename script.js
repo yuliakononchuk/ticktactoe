@@ -49,5 +49,3 @@ function play(row, column, event) {
       }, 0);                         
     };
 };
-
-
